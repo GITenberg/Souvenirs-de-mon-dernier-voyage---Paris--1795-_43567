@@ -1,0 +1,48 @@
+_repo: Souvenirs-de-mon-dernier-voyage---Paris--1795-_43567
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43567-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Meister, Jacques-Henri
+    aliases:
+    - Meister, Jakob Heinrich
+    - Le Maître, Henri
+    - Meister, Henri
+    - Maître, Henri Le
+    - Le Maitre, Henri
+    birthdate: 1744
+    deathdate: 1826
+    gutenberg_agent_id: '42300'
+    url: http://www.gutenberg.org/2009/agents/42300
+  editors:
+  - agent_name: Ritter, Eugène
+    aliases:
+    - Ritter, Eugene
+    - Ritter, E. (Eugène)
+    birthdate: 1836
+    deathdate: 1928
+    gutenberg_agent_id: '42302'
+    url: http://www.gutenberg.org/2009/agents/42302
+  - agent_name: Usteri, Paulus
+    alias: Usteri, Paul
+    birthdate: 1768
+    deathdate: 1831
+    gutenberg_agent_id: '42301'
+    url: http://www.gutenberg.org/2009/agents/42301
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2013-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43567'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Sources'
+title: Souvenirs de mon dernier voyage à Paris (1795)
+url: http://www.gutenberg.org/ebooks/43567
