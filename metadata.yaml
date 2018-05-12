@@ -32,6 +32,8 @@ creator:
     gutenberg_agent_id: '42301'
     url: http://www.gutenberg.org/2009/agents/42301
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43567#Souvenirs-de-mon-dernier-voyage---Paris--1795-
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2013-08-26'
 gutenberg_type: Text
